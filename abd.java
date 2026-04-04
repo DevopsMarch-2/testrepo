@@ -1,4 +1,6 @@
 a=[2,4,3,6]
    jbc{
-   ("abcd")}
+   ("abcd")
+   ("xyzlocal")
+}
 print(a,datatype)
